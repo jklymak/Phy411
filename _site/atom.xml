@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
- <title>Uvic Ocean Physics</title>
+ <title>Phy 411 Time Series</title>
  <link href="/atom.xml" rel="self"/>
  <link href="/"/>
- <updated>2014-08-09T19:59:46-07:00</updated>
+ <updated>2014-08-09T20:24:37-07:00</updated>
  <id></id>
  <author>
    <name>Jody Klymak</name>
