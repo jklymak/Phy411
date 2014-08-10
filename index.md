@@ -17,7 +17,7 @@ Fall 2014 (F02)
   - Meeting time:  TWF 09:30-10:30
   - Location:  
 
-## [Lectures and Assigments](./lectures/)
+## [Lectures and Assigments](./Lectures/)
 
 
 ## [Texts](./Texts/)
