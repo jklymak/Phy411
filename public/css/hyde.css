@@ -36,12 +36,12 @@ html {
 }
 @media (min-width: 48rem) {
   html {
-    font-size: 16px;
+    font-size: 12px;
   }
 }
 @media (min-width: 58rem) {
   html {
-    font-size: 20px;
+    font-size: 14px;
   }
 }
 
@@ -109,7 +109,7 @@ a.sidebar-nav-item:focus {
   .sidebar-sticky {
     position: absolute;
     right:  1rem;
-    bottom: 1rem;
+    bottom: 10rem;
     left:   1rem;
   }
 }
