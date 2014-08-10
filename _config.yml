@@ -10,7 +10,7 @@ title:            Phy 411 Time Series
 tagline:          'Time Series Analysis'
 description:      ''
 #url:              http://web.uvic.ca/~jklymak
-baseurl:          '/Phy411/'
+baseurl:          '/Phy411'
 
 author:
   name:           'Jody Klymak'
