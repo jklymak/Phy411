@@ -1,9 +1,9 @@
 ---
 layout: default
-title: Home
+title: Physics 411 Time Series Analysis
 ---
 
-# Uvic Ocean Physics software page
+# Physics 411 Time Series Analysis
 
 This is a list of useful software we may need.
 
