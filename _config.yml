@@ -1,0 +1,26 @@
+# Dependencies
+markdown:         redcarpet
+pygments:         true
+
+# Permalinks
+permalink:        pretty
+
+# Setup
+title:            Uvic Ocean Physics
+tagline:          'documentation !'
+description:      ''
+#url:              http://web.uvic.ca/~jklymak
+baseurl:          ''
+
+author:
+  name:           'Jody Klymak'
+  url:            http://web.uvic.ca/~jklymak
+
+paginate:         5
+paginate_path: "blog/page:num"
+
+# Custom vars
+version:          2.0.0
+
+github:
+  repo:           https://github.com/jklymak/jklymak.github.io

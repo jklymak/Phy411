@@ -1,0 +1,408 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"ex",
+				"externalForcingPeriod"
+			],
+			[
+				"uN",
+				"uN"
+			],
+			[
+				"hfacS",
+				"hFacS"
+			],
+			[
+				"endif",
+				"ENDIF"
+			],
+			[
+				"pbot",
+				"pbot"
+			],
+			[
+				"hf",
+				"hFacC"
+			],
+			[
+				"EQ",
+				"EQ"
+			],
+			[
+				"j",
+				"j"
+			],
+			[
+				"V0C",
+				"V0C"
+			],
+			[
+				"i",
+				"i"
+			],
+			[
+				"uw",
+				"uw"
+			],
+			[
+				"n",
+				"n"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "Packages/User/RestHtml.sublime-build",
+	"command_palette":
+	{
+		"height": 107.0,
+		"selected_items":
+		[
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"lo",
+				"Snippet: Lorem ipsum"
+			],
+			[
+				"task",
+				"Tasks: New document"
+			],
+			[
+				"tas",
+				"Tasks: New document"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"mult",
+				"Set Syntax: MultiMarkdown"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"prev",
+				"Markdown Preview: preview in Browser"
+			],
+			[
+				"markdo",
+				"Markdown Preview: preview in Browser"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"pack",
+				"Package Control: Install Package"
+			],
+			[
+				"snip",
+				"Snippet: Lorem ipsum"
+			],
+			[
+				"syntax: ma",
+				"Set Syntax: Markdown"
+			],
+			[
+				"mark",
+				"Set Syntax: MultiMarkdown"
+			],
+			[
+				"pac",
+				"Package Control: Install Package"
+			],
+			[
+				"late",
+				"Set Syntax: LaTeX Beamer"
+			],
+			[
+				"Pac",
+				"Package Control: Install Package"
+			],
+			[
+				"Pack",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 449.0
+	},
+	"console":
+	{
+		"height": 125.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/jklymak/Dropbox/Teaching/Eos314/junk/Grading2014.txt",
+		"/Users/jklymak/ownCloud/texmf/bibtex/bst/agufull08.bst",
+		"/Users/jklymak/Library/Containers/com.apple.mail/Data/Library/Mail Downloads/80D3861C-EE8A-4AE9-9A85-C69FB185BB22/Mail Attachment.as",
+		"/Users/jklymak/Dropbox/Site/_layouts/default.html",
+		"/Users/jklymak/Dropbox/Site/_posts/2013-09-08-Falkor0009a.md",
+		"/Users/jklymak/Dropbox/Site/blog/index.html",
+		"/Users/jklymak/Dropbox/Site/index.md",
+		"/Users/jklymak/Dropbox/Site/_posts/2011-12-06-LatMixNaSummer.md",
+		"/Users/jklymak/Dropbox/Site/_posts/2012-01-06-MixingSuper.md",
+		"/Users/jklymak/Dropbox/Site/2011-12-06-LatMixNaSummer.md",
+		"/Users/jklymak/Dropbox/Site/2012-01-06-MixingSuper.md",
+		"/Users/jklymak/Dropbox/Site/_posts/2013-09-01-KlymakEditor.md",
+		"/Users/jklymak/Dropbox/Site/_config.yml",
+		"/Users/jklymak/test/doc/who/index.rst",
+		"/Users/jklymak/Library/Application Support/Sublime Text 2/Packages/User/RestHtml.sublime-build",
+		"/Users/jklymak/test/doc/Hey.rst",
+		"/Users/jklymak/test/doc/index.rst",
+		"/Users/jklymak/test/doc/boo/index.rst",
+		"/Users/jklymak/test/mkdocs.yml",
+		"/Users/jklymak/Dropbox/ProjectDocs/jklymak.github.io/mkdocs.yml",
+		"/Users/jklymak/Dropbox/ProjectDocs/jklymak.github.io/README.md",
+		"/Users/jklymak/Dropbox/ProjectDocs/jklymak.github.io/Gemfile",
+		"/Users/jklymak/Dropbox/ProjectDocs/jklymak.github.io/_config.yml",
+		"/Users/jklymak/Dropbox/ProjectDocs/jklymak.github.io/index.md",
+		"/Users/jklymak/Dropbox/ProjectDocs/test/_posts/boo.md",
+		"/Users/jklymak/Dropbox/ProjectDocs/test/index.html",
+		"/Users/jklymak/downloads/hyde-2.0.0/public/css/poole.css",
+		"/Users/jklymak/downloads/hyde-2.0.0/blog.html",
+		"/Users/jklymak/downloads/hyde-2.0.0/public/css/hyde.css",
+		"/Users/jklymak/downloads/hyde-2.0.0/index.md",
+		"/Users/jklymak/downloads/hyde-2.0.0/_config.yml",
+		"/Users/jklymak/downloads/hyde-2.0.0/_includes/sidebar.html",
+		"/Users/jklymak/downloads/hyde-2.0.0/boo.md",
+		"/Users/jklymak/Dropbox/projtemplate/README.md",
+		"/Users/jklymak/Dropbox/ProjectDocs/projtemplate/_config.yml",
+		"/Users/jklymak/Dropbox/ProjectDocs/projtemplate/_includes/sidebar.html",
+		"/Users/jklymak/Dropbox/ProjectDocs/projtemplate/_includes/head.html",
+		"/Users/jklymak/Dropbox/ProjectDocs/projtemplate/index.md",
+		"/Users/jklymak/Dropbox/Site/public/css/hyde.css",
+		"/Users/jklymak/Dropbox/ProjectDocs/projtemplate/public/css/hyde.css",
+		"/Users/jklymak/Dropbox/Site/public/css/poole.css",
+		"/Users/jklymak/.doingrc",
+		"/Users/jklymak/ownCloud/ttide/RbcsTest/input/data.diagnostics",
+		"/Users/jklymak/ownCloud/ttide/RbcsTest/input/data.pkg",
+		"/Users/jklymak/ownCloud/ttide/RbcsTest/code/SIZE.h",
+		"/Users/jklymak/ownCloud/ttide/RbcsTest/input/data",
+		"/Users/jklymak/ownCloud/ttide/RbcsTest/input/data.obcs",
+		"/Users/jklymak/ownCloud/ttide/RbcsTest/input/data.rbcs",
+		"/Users/jklymak/MITgcmcode/code/energy_diagnostics_fill.F",
+		"/Users/jklymak/ownCloud/ttide/RbcsTest/input/gendata.py",
+		"/Users/jklymak/Dropbox/Meo2014/body.tex",
+		"/Users/jklymak/Dropbox/Meo2014/body_JG2.tex",
+		"/Users/jklymak/LM11/triaxus/specTriSite2.txt",
+		"/Users/jklymak/LM11/triaxus/specMVPNSSite2.txt",
+		"/Users/jklymak/LM11/triaxus/specTriSite1.txt",
+		"/Users/jklymak/LM11/triaxus/specMVPNSSite1.txt",
+		"/Users/jklymak/.ipython/profile_nbserver/ipython_notebook_config.py",
+		"/Users/jklymak/.ipython/ipythonrc-physics",
+		"/Users/jklymak/LP08/doc/rev1/LinePIwap.tex",
+		"/Users/jklymak/LM11/triaxus/specMVPEWSite1.txt",
+		"/Users/jklymak/Library/Containers/com.apple.mail/Data/Library/Mail Downloads/C8974E42-8B4D-4FD1-9C66-3F9BA1DA79C5/spec_plot.php",
+		"/Users/jklymak/.ipython/ipy_user_conf.pyc",
+		"/Users/jklymak/downloads/contour_demo.py",
+		"/Users/jklymak/ownCloud/budgets.dat",
+		"/Users/jklymak/LM12/mvp/plotThreeDIso.py",
+		"/Users/jklymak/ownCloud/bin/runtoday.sh",
+		"/Users/jklymak/Library/LaunchAgents/ca.uvic.seos.hornby.runToday.plist",
+		"/Users/jklymak/downloads/contourf3d_demo2.py",
+		"/Network/sansumdata/Modelling/MITgcm_c63o/model/inc/GRID.h",
+		"/Network/sansumdata/Modelling/TestEnergyDiag/code/pp81_calc.F",
+		"/Network/sansumdata/Modelling/TestEnergyDiag/code/energy_diagnostics_fill.F",
+		"/Network/sansumdata/Modelling/WA13Dns/input/runModel.sh",
+		"/Users/jklymak/WA13/monitorSimCoarseEn.py",
+		"/Users/jklymak/Library/Containers/com.apple.mail/Data/Library/Mail Downloads/matrix_cohere-1.m",
+		"/Users/jklymak/WA13/HighRes/gendata.py",
+		"/usr/local/texlive/2013/texmf-dist/tex/latex/nature/nature.cls",
+		"/Users/jklymak/ownCloud/Saanich13/GridAUV.py",
+		"/Users/jklymak/python/lib/jmkdata.py",
+		"/Users/jklymak/ownCloud/Saanich13/PlotCTD.py",
+		"/Users/jklymak/python/lib/jmkfigure.py",
+		"/Users/jklymak/downloads/connectionstyle_demo.py",
+		"/usr/local/lib/python2.7/site-packages/adsbibdesk.py",
+		"/Users/jklymak/python/ads_bibdesk/adsbibdesk.py",
+		"/Network/sansumdata/Modelling/WA13Dns/input/dataHighK",
+		"/Network/sansumdata/Modelling/WA13Dns/input/data.obcs1300",
+		"/Users/jklymak/LM12/adcp/proc/wh300/config/at19b_proc.py",
+		"/Users/jklymak/WA13/monitorSimDnsEn.py",
+		"/Users/jklymak/WA13/plotDns.py",
+		"/Users/jklymak/python/lib/misc.py",
+		"/Users/jklymak/python/lib/matfile.py",
+		"/Users/jklymak/Dropbox/Todos/JMK.TODO",
+		"/Users/jklymak/Dropbox/FalkorWatercolumn/matlab/plotTopo.m",
+		"/Users/jklymak/ownCloud/docs/UvicVita/biball.sh",
+		"/Users/jklymak/Dropbox/Todos/Projects.md",
+		"/Users/jklymak/Library/Application Support/Sublime Text 2/Packages/Default/Preferences.sublime-settings",
+		"/Users/jklymak/Library/Application Support/Sublime Text 2/Packages/MarkdownEditing/Markdown.sublime-settings",
+		"/Users/jklymak/Library/Application Support/Sublime Text 2/Packages/User/Markdown.sublime-settings",
+		"/Users/jklymak/Dropbox/test.TODO",
+		"/Users/jklymak/Dropbox/people.TODO",
+		"/Users/jklymak/Library/Application Support/Sublime Text 2/Packages/User/Preferences.sublime-settings",
+		"/var/folders/vy/zxjl84j90ws6d1k09_rhst0w0000gn/T/sublime-sftp-browse-1355284121/hornby/Users/jklymak/teaching/Phy411/python/RealData_files/RealData_fig_01.png",
+		"/var/folders/vy/zxjl84j90ws6d1k09_rhst0w0000gn/T/sublime-sftp-browse-1355284032/hornby/Users/jklymak/NotesTemplate.tex"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"markdown",
+			"sideba",
+			"fff",
+			"sideba",
+			"page",
+			"masth",
+			"h1",
+			"sideb",
+			"side",
+			"nav",
+			"om",
+			"N2",
+			"sall",
+			"clim",
+			"process",
+			"process_ar",
+			"BibDesk",
+			"def BibDesk",
+			"BibDesk",
+			"bibde",
+			"def bibde",
+			".call",
+			"__call__",
+			"bibtex",
+			"keptPDF",
+			"dois",
+			"doi",
+			"ADSConnector",
+			"debug",
+			"facet",
+			"uE",
+			"hfac",
+			"rhoC",
+			"rC",
+			"dx",
+			"x",
+			"nleft",
+			"potential",
+			"pden",
+			"100",
+			"bunch",
+			"~/texmf/bibtex/main.bib",
+			"\n",
+			"boo",
+			"proident",
+			"sublime"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 112.0
+	},
+	"output.sftp":
+	{
+		"height": 100.0
+	},
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true
+}
