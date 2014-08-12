@@ -22,6 +22,8 @@ Fall 2014 (F02)
 
 ## [Texts](./Texts/)
 
+## [Computing](./Computing/)
+
 ## Course Grading
 
 45% Assignments, 40% Analysis Project; 15% Midterm;
