@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
  <title>Phy 411 Time Series</title>
- <link href="/atom.xml" rel="self"/>
- <link href="/"/>
- <updated>2014-08-13T21:05:59-07:00</updated>
- <id></id>
+ <link href="http://jklymak.github.io/Phy411//atom.xml" rel="self"/>
+ <link href="http://jklymak.github.io/Phy411//"/>
+ <updated>2014-08-13T21:08:36-07:00</updated>
+ <id>http://jklymak.github.io/Phy411/</id>
  <author>
    <name>Jody Klymak</name>
    <email></email>
@@ -14,9 +14,9 @@
  
  <entry>
    <title>Introducing Hyde</title>
-   <link href="/2013/12/28/introducing-hyde/"/>
+   <link href="http://jklymak.github.io/Phy411//2013/12/28/introducing-hyde/"/>
    <updated>2013-12-28T00:00:00-08:00</updated>
-   <id>/2013/12/28/introducing-hyde</id>
+   <id>http://jklymak.github.io/Phy411//2013/12/28/introducing-hyde</id>
    <content type="html">&lt;p&gt;Hyde is a brazen two-column &lt;a href=&quot;http://jekyllrb.com&quot;&gt;Jekyll&lt;/a&gt; theme that pairs a prominent sidebar with uncomplicated content. It&amp;#39;s based on &lt;a href=&quot;http://getpoole.com&quot;&gt;Poole&lt;/a&gt;, the Jekyll butler.&lt;/p&gt;
 
 &lt;h3&gt;Built on Poole&lt;/h3&gt;
@@ -58,9 +58,9 @@
  
  <entry>
    <title>Example content</title>
-   <link href="/2012/02/07/example-content/"/>
+   <link href="http://jklymak.github.io/Phy411//2012/02/07/example-content/"/>
    <updated>2012-02-07T00:00:00-08:00</updated>
-   <id>/2012/02/07/example-content</id>
+   <id>http://jklymak.github.io/Phy411//2012/02/07/example-content</id>
    <content type="html">&lt;p&gt;This blog post shows a few different types of content that&amp;#39;s supported and styled with Hyde. Basic typography, images, and code are all supported.&lt;/p&gt;
 
 &lt;hr&gt;
@@ -121,9 +121,9 @@
  
  <entry>
    <title>What's Jekyll?</title>
-   <link href="/2012/02/06/whats-jekyll/"/>
+   <link href="http://jklymak.github.io/Phy411//2012/02/06/whats-jekyll/"/>
    <updated>2012-02-06T00:00:00-08:00</updated>
-   <id>/2012/02/06/whats-jekyll</id>
+   <id>http://jklymak.github.io/Phy411//2012/02/06/whats-jekyll</id>
    <content type="html">&lt;p&gt;&lt;a href=&quot;http://jekyllrb.com&quot;&gt;Jekyll&lt;/a&gt; is a static site generator, an open-source tool for creating simple yet powerful websites of all shapes and sizes. From &lt;a href=&quot;https://github.com/mojombo/jekyll/blob/master/README.markdown&quot;&gt;the project&amp;#39;s readme&lt;/a&gt;:&lt;/p&gt;
 
 &lt;blockquote&gt;
