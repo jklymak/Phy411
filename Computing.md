@@ -23,12 +23,12 @@ For this class, I strongly recommend python, with the [iPython](http://ipython.o
 
 Alternatives include 
 
-  - [Matlab](mathworks.com)
+  - [Matlab](http://mathworks.com)
   - [IDL](http://www.exelisvis.com/ProductsServices/IDL.aspx)
  
 There are likely similar packages for Fortran, C, and other low-level compiled languages.  I do not recommend these, as [compiled languages](http://en.wikipedia.org/wiki/Compiled_language) are not as easy to interact with as [interpreted languages](http://en.wikipedia.org/wiki/Interpreted_language).  Python or matlab will allow you to process code step by step, check status temporarily by plotting or printing your data, and are much more convenient to debug code with.
 
-[Matlab](mathworks.com) is available on campus, and there are student licenses available.  I don't supply advice on installing it, but many students have done it.  
+[Matlab](http://mathworks.com) is available on campus, and there are student licenses available.  I don't supply advice on installing it, but many students have done it.  
 
 ### Data Presentation ###
 
@@ -42,7 +42,7 @@ For the final project, you must present your work as a PDF.  You should try to m
   - equations
   - captions for figures
 
-I typically use [LaTeX](http://www.latex-project.org).  You may be more familiar with [Word](office.microsoft.com/word).
+I typically use [LaTeX](http://www.latex-project.org).  You may be more familiar with [Word](http://office.microsoft.com/word).
 
 ## Using the Python Stack ##
 
