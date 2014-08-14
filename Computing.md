@@ -59,7 +59,7 @@ I **do not** recommend trying to install python and all the libraries yourself b
   3. To download a notebook from my website you would go to the icon that looks like the earth to upload the notebook.
 ![Wakari upload location]({{ site.baseurl  }}/figs/Wakari_resize.png)
   4. When it asks you for a URL, you could put in: `https://raw.githubusercontent.com/jklymak/Phy411/master/lectures/Lecture-00-Intro-Python.ipynb=`  You should then have the notebook in your directory:
-![Wakari upload location]({{ site.baseurl  }}/figs/Wakari2_resize.png)
+![Wakari upload location]({{ site.url  }}/figs/Wakari2_resize.png)
   5. Ideally, you will organize your files a bit.  You can use the interface on the left to make folders (i.e. `lectures`, `assignments`, `finalproject`)
   6. The best thing is that you can modify the Notebook you just downloaded (as opposed to the static view [here](http://nbviewer.ipython.org/github/jklymak/Phy411/blob/master/lectures/Lecture-00-Intro-Python.ipynb)).  For example, in the "cell" under "Illustrative examples" you could change the line that reads:
 `ax1.plot(time,y2,label='$y_2$')` to read `ax1.plot(time,y2,label='$y_2$',color='r')`.  Hitting shift-Enter will re-execute the "cell", and the color of the plot below the code should change to red.  

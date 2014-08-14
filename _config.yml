@@ -9,7 +9,7 @@ permalink:        pretty
 title:            Phy 411 Time Series
 tagline:          'Time Series Analysis'
 description:      ''
-#url:              http://web.uvic.ca/~jklymak
+url:              http://jklymak.github.io/Phy411/
 baseurl:          '/Phy411'
 
 author:
