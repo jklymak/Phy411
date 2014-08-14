@@ -98,15 +98,88 @@
     <div class="content container">
       <div class="page">
   <h1 class="page-title">Computing</h1>
-  <h2>Computing&#39;s role in course</h2>
+  <h2>Computing&#39;s role in Physics 411</h2>
 
 <p>Time series analysis is heavily computational.  There are some theoretical concepts to understand, but even these benefit from application or statistical testing using the computer.  Therefore a large amount of your time will be spent analyzing either real or simulated data.  </p>
 
-<p>All of you are expected to have taken a first-year computer science class.  Beyond that, student experience varies widely at UVic Physics, with some students having taken more formal computer training, others having worked in a co-op position that gave you experience with computational data analysis.  The upshot is that the computing component of the course will be a lot harder for some students than others.  Fortunately, there are lots of online resources to help.  I use http://google.com pretty steadily while working on coding problems.  </p>
+<p>All of you are expected to have taken a first-year computer science class.  Beyond that, student experience varies widely at UVic Physics, with some students having taken more formal computer training, others having worked in a co-op position that gave you experience with computational data analysis.  The upshot is that the computing component of the course will be a lot harder for some students than others.  Fortunately, there are lots of online resources to help.  I use <a href="http://google.com">google</a> pretty steadily while working on coding problems.  Computing in this course will be from a strictly practical point of view, so there is no grading for quality of code (unless it doesn&#39;t work!)</p>
 
 <h2>Computing Advice</h2>
 
-<h3>Wakari How-to</h3>
+<h3>Data analysis:</h3>
+
+<p>You need a computing package that can analyze data sets.  It should include:</p>
+
+<ul>
+<li>canned routines for handling matrices and linear algebra.  You don&#39;t want to code the inversion of a matrix from scratch.<br></li>
+<li>data parsers for text. You don&#39;t want to write these if you can help it.</li>
+<li>a graphics library capable of making line plots, contour plots, and pseudo color images.  You <em>really</em> don&#39;t want to write these!</li>
+</ul>
+
+<p>For this class, I strongly recommend python, with the <a href="http://ipython.org">iPython</a> interface, the <a href="numpy.org">numpy</a> and <a href="scipy.org">scipy</a> data analysis packages, and the <a href="matplotlib.org">matplotlib</a> graphics library.  There are lots of other python libraries, but these ones are the core of the so-called &quot;science stack&quot;.  </p>
+
+<p>Alternatives include </p>
+
+<ul>
+<li><a href="mathworks.com">Matlab</a></li>
+<li><a href="http://www.exelisvis.com/ProductsServices/IDL.aspx">IDL</a></li>
+</ul>
+
+<p>There are likely similar packages for Fortran, C, and other low-level compiled languages.  I do not recommend these, as <a href="http://en.wikipedia.org/wiki/Compiled_language">compiled languages</a> are not as easy to interact with as <a href="http://en.wikipedia.org/wiki/Interpreted_language">interpreted languages</a>.  Python or matlab will allow you to process code step by step, check status temporarily by plotting or printing your data, and are much more convenient to debug code with.</p>
+
+<p><a href="mathworks.com">Matlab</a> is available on campus, and there are student licenses available.  I don&#39;t supply advice on installing it, but many students have done it.  </p>
+
+<h3>Data Presentation</h3>
+
+<p>For the homework&#39;s, you can either </p>
+
+<ul>
+<li>hand in a link to your iPython notebook,</li>
+<li>hand in a PDF of your work.</li>
+</ul>
+
+<p>For the final project, you must present your work as a PDF.  You should try to make the document in whatever document preparation software you are the most familiar with, but it should allow </p>
+
+<ul>
+<li>equations</li>
+<li>captions for figures</li>
+</ul>
+
+<p>I typically use <a href="http://www.latex-project.org">LaTeX</a>.  You may be more familiar with <a href="office.microsoft.com/word">Word</a>.</p>
+
+<h2>Using the Python Stack</h2>
+
+<p>Here you have two alternatives.  The first is to do the computing in the cloud using <a href="http://www.wakari.io">Wakari</a>.  Wakari will give you a full iPython environment, including <a href="http://ipython.org/notebook.html">iPython Notebook</a>.  Much of the the course materials are written as iPython Notebooks, and using Notebooks to do your assignments will be the most efficient way to do your homework.  I&#39;ll give a step-by-step guide to Wakari below.</p>
+
+<p>The other alternative is to install python and iPython on your own computer. I strongly recommend using the <a href="https://store.continuum.io/cshop/anaconda/">Anaconda distribution</a>.  Download the install to your machine, and run the commands.  It will install all the python libraries needed in this course, and it is how I install python. </p>
+
+<p>I <strong>do not</strong> recommend trying to install python and all the libraries yourself by hand.  It is a lot of work, and two years ago when I taught this course caused a lot of grief.  If you are not familiar with installing free software on your computer, I recommend using <a href="http://www.wakari.io">Wakari</a>. </p>
+
+<h3>Wakari How-To</h3>
+
+<ol>
+<li>Go to <a href="http://www.wakari.io">http://www.wakari.io</a>, and &quot;Create an Account&quot;</li>
+<li>When you go into Wakari, read the test document they give you &quot;01<em>notebook</em>introduction&quot;.  It is a good introduction to how python notebooks work.</li>
+<li>To download a notebook from my website you would go to the icon that looks like the earth to upload the notebook.
+<img src="figs/Wakari_resize.png" alt="Wakari upload location"></li>
+<li>When it asks you for a URL, you could put in: <code>https://raw.githubusercontent.com/jklymak/Phy411/master/lectures/Lecture-00-Intro-Python.ipynb=</code>  You should then have the notebook in your directory:
+<img src="figs/Wakari2_resize.png" alt="Wakari upload location"></li>
+<li>Ideally, you will organize your files a bit.  You can use the interface on the left to make folders (i.e. <code>lectures</code>, <code>assignments</code>, <code>finalproject</code>)</li>
+<li>The best thing is that you can modify the Notebook you just downloaded (as opposed to the static view <a href="http://nbviewer.ipython.org/github/jklymak/Phy411/blob/master/lectures/Lecture-00-Intro-Python.ipynb">here</a>).  For example, in the &quot;cell&quot; under &quot;Illustrative examples&quot; you could change the line that reads:
+<code>ax1.plot(time,y2,label=&#39;$y_2$&#39;)</code> to read <code>ax1.plot(time,y2,label=&#39;$y_2$&#39;,color=&#39;r&#39;)</code>.  Hitting shift-Enter will re-execute the &quot;cell&quot;, and the color of the plot below the code should change to red.<br></li>
+<li>When you are done editing the notebook, you can &quot;save&quot; it.</li>
+<li>If you want to share the notebook, i.e. with your professor, or other students, you just hit the &quot;Share&quot; button in the left hand panel, and follow the instructions to get a link to the notebook.</li>
+</ol>
+
+<h3>Your Own Computer How-To</h3>
+
+<p>If you really want to use your own computer, I still recommend using iPython Notebooks.  This requires running some commands in the command window.  </p>
+
+<ol>
+<li>In the terminal, go to the directory with the notebooks you want to work on (or an empty directory).</li>
+<li>run <code>ipython notebook</code>  If you have set everything up properly using anaconda, Firefox or another browser should open with a list of iPython notebooks.<br></li>
+<li>If you want to get one of my notebooks, you can go to github: <a href="https://github.com/jklymak/Phy411/">https://github.com/jklymak/Phy411/</a>, navigate to <code>lectures</code>, open <code>Lecture-00-Intro-Python.ipynb</code>, and then right-click on the <code>Raw</code> button and &quot;Download Linked File As..&quot; to save to your machine.</li>
+</ol>
 
 </div>
 
