@@ -55,7 +55,7 @@ I **do not** recommend trying to install python and all the libraries yourself b
 ### Wakari How-To ###
 
   1. Go to [http://www.wakari.io](http://www.wakari.io), and "Create an Account"
-  2. When you go into Wakari, read the test document they give you "01_notebook_introduction".  It is a good introduction to how python notebooks work.
+  2. When you go into Wakari, read the test document they give you `01_notebook_introduction`.  It is a good introduction to how python notebooks work.
   3. To download a notebook from my website you would go to the icon that looks like the earth to upload the notebook.
 ![Wakari upload location]({{ baseurl }}/figs/Wakari_resize.png)
   4. When it asks you for a URL, you could put in: `https://raw.githubusercontent.com/jklymak/Phy411/master/lectures/Lecture-00-Intro-Python.ipynb=`  You should then have the notebook in your directory:
