@@ -59,7 +59,7 @@ I **do not** recommend trying to install python and all the libraries yourself b
   3. To download a notebook from my website you would go to the icon that looks like the earth to upload the notebook.
 ![Wakari upload location](/Phy411/figs/Wakari_resize.png)
   4. When it asks you for a URL, you could put in: `https://raw.githubusercontent.com/jklymak/Phy411/master/lectures/Lecture-00-Intro-Python.ipynb=`  You should then have the notebook in your directory:
-![Wakari upload location](/Phy411/figs/Wakari2_resize.png)
+![Wakari upload location]({{ site.baseurl  }}/figs/Wakari2_resize.png)
   5. Ideally, you will organize your files a bit.  You can use the interface on the left to make folders (i.e. `lectures`, `assignments`, `finalproject`)
   6. The best thing is that you can modify the Notebook you just downloaded (as opposed to the static view [here](http://nbviewer.ipython.org/github/jklymak/Phy411/blob/master/lectures/Lecture-00-Intro-Python.ipynb)).  For example, in the "cell" under "Illustrative examples" you could change the line that reads:
 `ax1.plot(time,y2,label='$y_2$')` to read `ax1.plot(time,y2,label='$y_2$',color='r')`.  Hitting shift-Enter will re-execute the "cell", and the color of the plot below the code should change to red.  
@@ -73,5 +73,5 @@ If you really want to use your own computer, I still recommend using iPython Not
 
   1. In the terminal, go to the directory with the notebooks you want to work on (or an empty directory).
   2. run `ipython notebook`  If you have set everything up properly using anaconda, Firefox or another browser should open with a list of iPython notebooks.  
-  3. If you want to get one of my notebooks, you can go to github: [https://github.com/jklymak/Phy411/](https://github.com/jklymak/Phy411/), navigate to `lectures`, open `Lecture-00-Intro-Python.ipynb`, and then right-click on the `Raw` button and "Download Linked File As.." to save to your machine.
+  3. If you want to get one of my notebooks, you can go to github: [https://github.com/jklymak/Phy411/](https://github.com/jklymak/Phy411/), navigate to `lectures`, open `Lecture-00-Intro-Python.ipynb`, and then right-click on the `Raw` button and "Download Linked File As.." to save to your machine.  Then you can open the notebook by running `python notebook` in the directory that you put it in.  
   
