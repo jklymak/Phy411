@@ -37,6 +37,7 @@ date-formated ticks.
 
 In python, you need to `import datetime`, and then  `datestr2num` will give a similar number:
 `datestr2num('2009-01-01')` yields `733408.0`.  Better is to do things as 
+
 ```python
 d=datetime.date(2012,1,1)
 d.toordinal
