@@ -1,10 +1,10 @@
 ---
 layout: page
-title: Physics 411 Course Project
+title: Course Project
 ---
 
 The project will involve analyzing temperature data from the
-[[http://www.victoriaweather.ca][UVic School Weather Network]].  Two types of data are to be considered:
+[UVic School Weather Network](http://www.victoriaweather.ca).  Two types of data are to be considered:
 
 <contents>
 
@@ -28,15 +28,15 @@ and can you explain using your knowledge of the local climate?
 The data sets start on 1 Jan 2009 a minute after midnight local, or at
 08:00 UTC = 733408.333.  
 
-In matlab, these dates can be manipulated with =datestr.m=
-and =datenum=.  If =d= is a date, then =datestr(d)= will return a nice
-string with the date.  =datenum(2009,1,1)= will return =733408.0=.  For
+In matlab, these dates can be manipulated with `datestr.m`
+and `datenum`.  If `d` is a date, then `datestr(d)` will return a nice
+string with the date.  `datenum(2009,1,1)` will return `733408.0`.  For
 plotting, its OK do simply plot decimal days (days from 1 Jan 2009 is
-useful), or to plot as normal and use =datetick= to (try) and make
+useful), or to plot as normal and use `datetick` to (try) and make
 date-formated ticks. 
 
-In python, you need to =import datetime=, and then  =datestr2num= will give a similar number:
-=datestr2num('2009-01-01')= yields =733408.0=.  Better is to do things as 
+In python, you need to `import datetime`, and then  `datestr2num` will give a similar number:
+`datestr2num('2009-01-01')` yields `733408.0`.  Better is to do things as 
 <src lang='python'>
 d=datetime.date(2012,1,1)
 d.toordinal
@@ -44,7 +44,7 @@ d.fromordinal(733408)
 </src>
 which yields the same.  If you have an array of ordinal times
 (i.e. the format you've been given), then 
-=plot_date(time,temp,'-')= will make nice xlabels.  I found they don't
+`plot_date(time,temp,'-')` will make nice xlabels.  I found they don't
 fit too well sometimes, so you can play w/ rotating them.  
 <src lang='python'>
 labels = ax.get_xticklabels() 
@@ -66,11 +66,11 @@ first two rows are the longitude (degrees E) and latitude (degrees N)
 of each station.  
 
 First, it would be nice to replicate the map on
-[[http://www.victoriaweather.ca]].  Use some sort of 2-D interpolation to
+[http://www.victoriaweather.ca](http://www.victoriaweather.ca).  Use some sort of 2-D interpolation to
 put the sparse data on a lon/lat grid, and then plot.  I'll provide a
 coastline file to plot the coast on.  Indicate station locations.
 
-[[./Data/Coast.txt]]: longitudes followed by latitudes.  Note the islands
+[Data/Coast.txt](http://web.uvic.ca/~jklymak/Phy411/Data/Coasts.txt]: longitudes followed by latitudes.  Note the islands
 etc are missing.  
 
 Then use this data set to look for spatial patterns of variability
@@ -105,6 +105,7 @@ observations that you make about your data.  In making these
 statements, hopefully you will come up with other analyses to try.
 
 Grading:  
+  
    - Complete set of plots: 20%
       - make sure you plot enough of the data to explain it, and that
         you do the "basics".  
