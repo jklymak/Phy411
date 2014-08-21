@@ -37,21 +37,22 @@ date-formated ticks.
 
 In python, you need to `import datetime`, and then  `datestr2num` will give a similar number:
 `datestr2num('2009-01-01')` yields `733408.0`.  Better is to do things as 
-<src lang='python'>
+```python
 d=datetime.date(2012,1,1)
 d.toordinal
 d.fromordinal(733408)
-</src>
+```
 which yields the same.  If you have an array of ordinal times
 (i.e. the format you've been given), then 
 `plot_date(time,temp,'-')` will make nice xlabels.  I found they don't
 fit too well sometimes, so you can play w/ rotating them.  
-<src lang='python'>
+
+```python
 labels = ax.get_xticklabels() 
 for label in labels: 
     label.set_rotation(20)
     label.set_ha('right')
-</src>
+```
 
 
 
@@ -70,7 +71,7 @@ First, it would be nice to replicate the map on
 put the sparse data on a lon/lat grid, and then plot.  I'll provide a
 coastline file to plot the coast on.  Indicate station locations.
 
-[Data/Coast.txt](http://web.uvic.ca/~jklymak/Phy411/Data/Coasts.txt]: longitudes followed by latitudes.  Note the islands
+[Data/Coast.txt](http://web.uvic.ca/~jklymak/Phy411/Data/Coasts.txt): longitudes followed by latitudes.  Note the islands
 etc are missing.  
 
 Then use this data set to look for spatial patterns of variability
