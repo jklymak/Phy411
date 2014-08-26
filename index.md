@@ -12,10 +12,17 @@ Fall 2014 (F02)
 
   - Instructor: [Jody Klymak](http://web.uvic.ca/~jklymak)
   - Office: [Bob Wright Centre](http://www.uvic.ca/buildings/sci.html) A313
-  - Tel: (250)-472-5969; Email: mailto:jklymak@uvic.ca
+  - Tel: (250)-472-5969; Email: [jklymak@uvic.ca](mailto:jklymak@uvic.ca)
   - Office Hours: W 14:30-15:30 or by appointment 
   - Meeting time:  TWF 09:30-10:30
-  - Location:  
+  - Location:  [Bob Wright Centre](http://www.uvic.ca/buildings/sci.html) B122 
+
+## Course Objectives ##
+
+  - Understand the basics of time series analysis
+  - Improve statistical reasoning skills
+  - Gain experience handling time series data sets, and interpreting the results using a data analysis package.
+  - Gain experience visualizing data sets and statistical results. 
 
 ## [Lectures and Assigments](./Lectures/)
 
