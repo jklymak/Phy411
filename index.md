@@ -44,12 +44,12 @@ with appropriate documentation as per [UVic's regulations](http://www.uvic.ca/re
 
 Please feel free to contact me through the mailing lists:
 
-(201409-phys411-12635@lists.uvic.ca)[mailto:201409-phys411-12635@lists.uvic.ca]
+[201409-phys411-12635@lists.uvic.ca](mailto:201409-phys411-12635@lists.uvic.ca)
 
 To manage your list, have a look at the appropriate page:
 
- https://lists.uvic.ca/mailman/listinfo/201409-phys411-12635
- 
+ [https://lists.uvic.ca/mailman/listinfo/201409-phys411-12635](https://lists.uvic.ca/mailman/listinfo/201409-phys411-12635)
+
 Questions that will benefit all your classmates are very welcome on
 the list. 
 
