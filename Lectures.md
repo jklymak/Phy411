@@ -47,7 +47,7 @@ and you should get a copy of the directory in a level below your present one.
 % git push origin master
 ```
 
-  - now you should be able to go to github and navigate to your new `Phy411/Assignment01.ipynb`.  Do so, and copy the link.  It will be something like
+  - now you should be able to go to github and navigate to your new `Phy411Assignments/Assignment01.ipynb`.  Do so, and copy the link.  It will be something like
 `https://github.com/yourname/Phy411Assignments/blob/master/Assignment01.ipynb`
 
   - go to [nbviewer.ipython.org](nbviewer.ipython.org) and enter the link above.  You should now see your Assignment in the nbviewer.  
