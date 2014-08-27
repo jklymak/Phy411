@@ -15,7 +15,7 @@ Fall 2014 (F02)
   - Tel: (250)-472-5969; Email: [jklymak@uvic.ca](mailto:jklymak@uvic.ca)
   - Office Hours: W 14:30-15:30 or by appointment 
   - Meeting time:  TWF 09:30-10:30
-  - Location:  [Bob Wright Centre](http://www.uvic.ca/buildings/sci.html) B122 
+  - Location:  [Bob Wright Centre](http://www.uvic.ca/buildings/sci.html) B120 
 
 ## Course Objectives ##
 
