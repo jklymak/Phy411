@@ -46,11 +46,20 @@ I typically use [LaTeX](http://www.latex-project.org).  You may be more familiar
 
 ## Using the Python Stack ##
 
-Here you have two alternatives.  The first is to do the computing in the cloud using [Wakari](http://www.wakari.io).  Wakari will give you a full iPython environment, including [iPython Notebook](http://ipython.org/notebook.html).  Much of the the course materials are written as iPython Notebooks, and using Notebooks to do your assignments will be the most efficient way to do your homework.  I'll give a step-by-step guide to Wakari below.
+Here you have three alternatives.  
 
-The other alternative is to install python and iPython on your own computer. I strongly recommend using the [Anaconda distribution](https://store.continuum.io/cshop/anaconda/).  Download the install to your machine, and run the commands.  It will install all the python libraries needed in this course, and it is how I install python.
+The first is to do the computing in the cloud using [Wakari][wakari].  Wakari will give you a full iPython environment, including [iPython Notebook](http://ipython.org/notebook.html).  Much of the the course materials are written as iPython Notebooks, and using Notebooks to do your assignments will be the most efficient way to do your homework.  I'll give a step-by-step guide to Wakari below.
 
-I **do not** recommend trying to install python and all the libraries yourself by hand.  It is a lot of work, and two years ago when I taught this course caused a lot of grief.  If you are not familiar with installing free software on your computer, I recommend using [Wakari](http://www.wakari.io).
+[wakari]: http://www.wakari.io
+[sagemath]: https://cloud.sagemath.com
+
+The second is very similar to the first, and it is to try [cloud.sagemath.com][sagemath].  It works much the same as Wakari.
+
+The other alternative is to install python and iPython on your own computer. I strongly recommend using the [Anaconda distribution](https://store.continuum.io/cshop/anaconda/).  Download the install to your machine, and run the commands.  It will install all the python libraries needed in this course, and it is how I install python on my computers.
+
+**My recommendation**  If at all possible, install on your own computer.  I've had trouble getting access to [Wakari][wakari]  with a free account.  Sometimes they simply don't have the resources to give you a login.  That said, you can pay $10/month for a heightened access account, which hopefully gives you higher priority to the CPUs, and is a lot less grief than dealing with an old laptop, etc.  [Sagemath][sagemath] looks great, but it has a pretty laggy interface which may be an annoyance after a while.  However, once your notebook is open it seems to be fast enough.  
+
+I **do not** recommend trying to install python and all the libraries yourself by hand.  It is a lot of work, and two years ago when I taught this course caused a lot of grief.  
 
 ### Wakari How-To ###
 
@@ -74,5 +83,6 @@ The Wakari people have a nice video: [https://www.youtube.com/](https://www.yout
 If you really want to use your own computer, I still recommend using iPython Notebooks.  This requires running some commands in the command window.  
 
   1. In the terminal, go to the directory with the notebooks you want to work on (or an empty directory).
-  2. run `ipython notebook`  If you have set everything up properly using anaconda, Firefox or another browser should open with a list of iPython notebooks.  
-  3. If you want to get one of my notebooks, you can go to github: [https://github.com/jklymak/Phy411/](https://github.com/jklymak/Phy411/), navigate to `lectures`, open `Lecture-00-Intro-Python.ipynb`, and then right-click on the `Raw` button and "Download Linked File As.." to save to your machine.  Then you can open the notebook by running `python notebook` in the directory that you put it in.  
+  2. run `ipython notebook`  If you have set everything up properly using anaconda, Firefox or another browser should open with a list of iPython notebooks.  **NOTE** I've had trouble if OS-X's Safari opens.  It has some incompatibilities with the graphics in the notebook, so if Safari opens, simply cut and paste the url into Firefox and run from there.  
+  3. If you want to get one of my notebooks, you can go to github: [https://github.com/jklymak/Phy411/](https://github.com/jklymak/Phy411/), navigate to `lectures`, open `Lecture-00-Intro-Python.ipynb`, and then right-click on the `Raw` button and "Download Linked File As.." to save to your machine.  Then you can open the notebook by running `ipython notebook` in the directory that you put the file in.  
+   
