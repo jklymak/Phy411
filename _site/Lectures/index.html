@@ -67,6 +67,14 @@
       
         
           
+            <li class="sidebar-nav-item">
+              <a href="/Phy411/CourseProject/">Course Project</a>
+            </li>
+          
+        
+      
+        
+          
         
       
         
@@ -100,11 +108,61 @@
   <h1 class="page-title">Lectures and Assignments</h1>
   <p><a href="http://nbviewer.ipython.org/github/jklymak/Phy411/tree/master/lectures/">Lectures</a></p>
 
+<p>Each &quot;Week&quot; has a lecture associated with it. </p>
+
 <p><a href="http://nbviewer.ipython.org/github/jklymak/Phy411/tree/master/assignments/">Assignments</a></p>
+
+<p>There will be approximately weekly assignments, due the Wed after the end of the week, so Assignment 1 is due 17 Sep at 17:00 local time, Assignment 2 due 24 Sep, etc.  Assignments are of equal weight, and are 55% of your grade.  Late assignments are penalized 10% per day, fractions rounded up.  </p>
+
+<p>Assignments are due by email, subject must say: <code>Phy411 Assignment 01</code>, <code>Phy411 Assignment 02</code>, etc.  The email can contain a PDF of your assignment, or it can contain a link to your notebook if you keep the notebook on github or wakari.  </p>
+
+<h2>Sharing Notebooks on Github</h2>
+
+<p>If you are writing notebooks on your machine, its pretty easy to share them by keeping them under version control on <a href="https://github.com">github</a>.  </p>
+
+<ul>
+<li>Sign up for <a href="https://github.com">github</a></li>
+<li>Create a repository on <a href="https://github.com">github</a>.  i.e. <code>Phy411Assignments</code></li>
+<li>On your local machine, use a GUI github client, or from the command prompt type </li>
+</ul>
+<div class="highlight"><pre><code class="text language-text" data-lang="text">% git clone https://github.com/yourname/Phy411Assignments.git
+</code></pre></div>
+<p>and you should get a copy of the directory in a level below your present one.</p>
+
+<ul>
+<li>Copy your notebook into the new directory (or start editing a new one there)</li>
+<li>Add your file (only need to do once:)</li>
+</ul>
+<div class="highlight"><pre><code class="text language-text" data-lang="text">% git add Assignment01.ipynb
+</code></pre></div>
+<ul>
+<li>Commit your changes:</li>
+</ul>
+<div class="highlight"><pre><code class="text language-text" data-lang="text">% git commit -a -m &quot;added Assignment01.ipynb&quot;
+</code></pre></div>
+<ul>
+<li>Push your changes to github: you will likely need your password.</li>
+</ul>
+<div class="highlight"><pre><code class="text language-text" data-lang="text">% git push origin master
+</code></pre></div>
+<ul>
+<li><p>now you should be able to go to github and navigate to your new <code>Phy411Assignments/Assignment01.ipynb</code>.  Do so, and copy the link.  It will be something like
+<code>https://github.com/yourname/Phy411Assignments/blob/master/Assignment01.ipynb</code></p></li>
+<li><p>go to <a href="nbviewer.ipython.org">nbviewer.ipython.org</a> and enter the link above.  You should now see your Assignment in the nbviewer.  </p></li>
+<li><p>copy the nbviewer link and send it to me.  You can just send me the tree version, which for the above would look like:</p></li>
+</ul>
+<div class="highlight"><pre><code class="text language-text" data-lang="text">http://nbviewer.ipython.org/github/yourname/Phy411Assignments/tree/master/
+</code></pre></div>
+<p>I know that seems like a lot, but really, it is great to store things on <a href="https://github.com">github</a> anyways as a back up to make sure your work is safe.  After that, its very easy to figure out the pathnames to send me for nbviewer, so its not as big a chore as this all sounds.  You simply have to remember to <code>add</code> (once), <code>commit</code>, and <code>push</code> your work.</p>
 
 </div>
 
-    </div>
 
+      <foot>
+  Last Modified: 28 August 2014   Licence: <a href="http://creativecommons.org/licenses/by-nc/4.0/">Creative Commons Attribution required, non-commercial uses (CC BY-NC 4.0)</a>
+</foot>
+
+
+    </div>
   </body>
 </html>

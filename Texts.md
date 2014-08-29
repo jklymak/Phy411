@@ -35,3 +35,4 @@ to cover as well.  Fortunately, there are plenty of online resources.
     discussion of confidence intervals or error analysis, and
     therefore is a bit beneath this course, but the logical layout is
     nice. 
+  - An excellent set of notebooks, similar to what I am attempting with this course are [Python for Signal Processing](https://github.com/unpingco/Python-for-Signal-Processing/blob/master/README.md).  I found this after I started, but a lot of it is relevant to this class.
