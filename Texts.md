@@ -6,7 +6,9 @@ title: Texts
 There is no course textbook.  
 
 The course was previously taught from  [Bendat and Piersol](http://books.google.ca/books/about/Random_Data.html?id=iu7pq6_vo3QC&redir_esc=y), 4th edition, 2010.  Older versions should be fine, but you'll have to dig a bit if equation
-numbers have changed etc.  
+numbers have changed etc. 
+
+Apparently this is now available online!  [Link](http://onlinelibrary.wiley.com/book/10.1002/9781118032428) 
 
 Bendat and Piersol is a relatively formal statistics text, which is
 helpful for clarifying concepts after they have been thought about a
@@ -14,8 +16,7 @@ bit.  Also, such explanations can sometimes be missed during class, or
 not explained properly by the professor, so it is nice to have a
 formal text to fall back on.  
 
-It does not do almost anything on filtering, which we really will have
-to cover as well.  Fortunately, there are plenty of online resources. 
+It does not do almost anything on filtering, which we  will cover as well.  Fortunately, there are plenty of online resources. 
 
 
 **Other texts**
