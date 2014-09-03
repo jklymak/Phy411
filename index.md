@@ -13,7 +13,7 @@ Fall 2014 (F02)
   - Instructor: [Jody Klymak](http://web.uvic.ca/~jklymak)
   - Office: [Bob Wright Centre](http://www.uvic.ca/buildings/sci.html) A313
   - Tel: (250)-472-5969; Email: [jklymak@uvic.ca](mailto:jklymak@uvic.ca)
-  - Office Hours: W 14:30-15:30 or by appointment 
+  - Office Hours: Tue 14:30-15:30 or by appointment 
   - Meeting time:  TWF 09:30-10:30
   - Location:  [Bob Wright Centre](http://www.uvic.ca/buildings/sci.html) B120 
 
@@ -26,7 +26,6 @@ Fall 2014 (F02)
   
 
 ## [Lectures and Assigments](./Lectures/)
-
 
 
 ## [Texts](./Texts/)
