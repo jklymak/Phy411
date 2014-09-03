@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Tip: Following updates on github
+title: Tip - Following updates on github
 ---
 
 I will try and post regular tips for working with the publishing ecosystem, iPython etc, as they occur to me.  
