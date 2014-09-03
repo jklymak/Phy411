@@ -7,7 +7,7 @@ title: Lectures and Assignments
 
 Each "Week" has a lecture associated with it. 
 
-[Assignments](http://nbviewer.ipython.org/github/jklymak/Phy411/tree/master/assignments/)
+[Assignments](http://nbviewer.ipython.org/github/jklymak/Phy411/tree/master/assigments/)
 
 There will be approximately weekly assignments, due the Wed after the end of the week, so Assignment 1 is due 17 Sep at 17:00 local time, Assignment 2 due 24 Sep, etc.  Assignments are of equal weight, and are 55% of your grade.  Late assignments are penalized 10% per day, fractions rounded up.  
 
