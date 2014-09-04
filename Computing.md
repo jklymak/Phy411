@@ -19,7 +19,7 @@ You need a computing package that can analyze data sets.  It should include:
   - data parsers for text. You don't want to write these if you can help it.
   - a graphics library capable of making line plots, contour plots, and pseudo color images.  You *really* don't want to write these!
 
-For this class, I strongly recommend python, with the [iPython](http://ipython.org) interface, the [numpy](numpy.org) and [scipy](scipy.org) data analysis packages, and the [matplotlib](matplotlib.org) graphics library.  There are lots of other python libraries, but these ones are the core of the so-called "[science stack](http://www.scipy.org/stackspec.html)".  
+For this class, I strongly recommend python, with the [iPython](http://ipython.org) interface, the [numpy](http://numpy.org) and [scipy](http://scipy.org) data analysis packages, and the [matplotlib](http://matplotlib.org) graphics library.  There are lots of other python libraries, but these ones are the core of the so-called "[science stack](http://www.scipy.org/stackspec.html)".  
 
 Alternatives include
 
