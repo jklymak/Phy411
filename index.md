@@ -30,8 +30,9 @@ Fall 2014 (F02)
   - [Lectures](http://nbviewer.ipython.org/github/jklymak/Phy411/tree/master/lectures/)
   - [Assignments](http://nbviewer.ipython.org/github/jklymak/Phy411/tree/master/assigments/)
 
-**NEXT ASSIGNMENT:** Assignment 1: 17 Sep, 2014 17:00
-
+<literal>
+<iframe width=600 height=600 src="https://docs.google.com/spreadsheets/d/1PS3p5IuaYh4q2SQ7lkzMghky6-_xv6w8gfJ5R5vUfcI/pubhtml?widget=true&amp;headers=false"></iframe>
+</literal>
 
 ## [Texts](./Texts/)
 
