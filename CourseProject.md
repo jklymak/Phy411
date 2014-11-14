@@ -99,12 +99,14 @@ sphere onto a map (i.e. the "Mercator", "Azimuthal" etc projections).
 
 ## Final Product
 
-I want this written as a report, with a very brief introduction, a
+I want this written as a written report, with a very brief introduction, a
 short description of how the data was collected, and then sections
 that present your observations.  I'd expect that you will have around
 20 plots.  You should describe in the text the most important
 observations that you make about your data.  In making these
 statements, hopefully you will come up with other analyses to try.
+
+The report should be handed in as a PDF, with figures embeded and properly captioned.  You may not have a lot of experience saving figures, but `plt.savefig` does a nice job. Your report should have a short introduction, methods, results, and a short discussion. 
 
 Grading:  
   
