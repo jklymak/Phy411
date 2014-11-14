@@ -106,7 +106,7 @@ that present your observations.  I'd expect that you will have around
 observations that you make about your data.  In making these
 statements, hopefully you will come up with other analyses to try.
 
-The report should be handed in as a PDF, with figures embeded and properly captioned.  You may not have a lot of experience saving figures, but `plt.savefig` does a nice job. Your report should have a short introduction, methods, results, and a short discussion. 
+The report should be handed in as a PDF, with figures embeded and properly captioned.  You may not have a lot of experience saving figures, but `plt.savefig` does a nice job; be sure to have adequate resolution so that your final product is legible and looks good. Your report should have a short introduction, methods, results, and a short discussion. 
 
 Grading:  
   
