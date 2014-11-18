@@ -62,7 +62,7 @@ for label in labels:
 [Data/AllHourly.zip](http://web.uvic.ca/~jklymak/Phy411/Data/AllHourly.zip)
 
 One-hour resolution temperature data is taken from the same network of
-stations.  Data is on an even time grid, from 2009-01-01 08:00 UTC,
+35 stations.  Data is on an even time grid, from 2009-01-01 08:00 UTC,
 with each row representing a time, and each column a station.  The
 first two rows are the longitude (degrees E) and latitude (degrees N)
 of each station.  
@@ -72,7 +72,7 @@ First, it would be nice to replicate the map on
 put the sparse data on a lon/lat grid, and then plot.  I'll provide a
 coastline file to plot the coast on.  Indicate station locations.
 
-[Data/Coast.txt](http://web.uvic.ca/~jklymak/Phy411/Data/Coasts.txt): longitudes followed by latitudes.  Note the islands
+[Data/Coast.txt](http://web.uvic.ca/~jklymak/Phy411/Data/Coast.txt): longitudes followed by latitudes.  Note the islands
 etc are missing.  
 
 Then use this data set to look for spatial patterns of variability
