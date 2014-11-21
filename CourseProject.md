@@ -25,7 +25,7 @@ and can you explain using your knowledge of the local climate?
 
 ### Handling dates
 
-The data sets start on 1 Jan 2008 a minute after midnight local, or at
+The data sets start on 1 Jan 2009 a minute after midnight local, or at
 08:00 UTC = 733408.333.  
 
 In matlab, these dates can be manipulated with `datestr.m`
