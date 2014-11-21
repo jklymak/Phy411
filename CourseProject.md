@@ -55,6 +55,7 @@ for label in labels:
     label.set_ha('right')
 ```
 
+*However* it is likely easiest to just deal with yeardays: `yday=time-733408.0`, with yday=0.5 representing noon on 1 Jan 2009.
 
 
 ## Hour resolution, many stations
