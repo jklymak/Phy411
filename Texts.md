@@ -22,9 +22,9 @@ It does not do almost anything on filtering, which we  will cover as well.  Fort
 **Other texts**
 
   - I often refer to
-    [Emery and Thompson](http://www.amazon.ca/Data-Analysis-Methods-Physical-Oceanography/dp/0444507574) simply because it is a compendium of the most
+    [Emery and Thomson](http://www.amazon.ca/Data-Analysis-Methods-Physical-Oceanography/dp/0444507574) simply because it is a compendium of the most
     commonly used techniques in my field.  They also have a lot of
-    real-world examples.
+    real-world examples.  
   - [Press et. al.](http://www.nr.com/), (Numerical Recipes) is the definitive resource for
     basic computing algorithms.  Of course, a lot of these algorithm's
     are available as libraries for common languages, so perhaps not as

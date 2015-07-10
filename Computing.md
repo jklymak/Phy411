@@ -7,7 +7,7 @@ title: Computing
 
 Time series analysis is heavily computational.  There are some theoretical concepts to understand, but even these benefit from application or statistical testing using the computer.  Therefore a large amount of your time will be spent analyzing either real or simulated data.  
 
-All of you are expected to have taken a first-year computer science class.  Beyond that, student experience varies widely at UVic Physics, with some students having taken more formal computer training, others having worked in a co-op position that gave you experience with computational data analysis.  The upshot is that the computing component of the course will be a lot harder for some students than others.  Fortunately, there are lots of online resources to help.  I use [google](http://google.com) pretty steadily while working on coding problems.  Computing in this course will be from a strictly practical point of view, so there is no grading for quality of code (unless it doesn't work!)
+All of you are expected to have taken a first-year computer science class.  Beyond that, student experience varies widely at UVic Physics, with some students having taken more formal computer training, others having worked in a co-op position that gave you experience with computational data analysis.  The upshot is that the computing component of the course will be a lot harder for some students than others.  Fortunately, there are lots of online resources to help.  I use [google](http://google.com) pretty steadily while working on coding problems.  Computing in this course will be from a strictly practical point of view, so there is no grading for quality of code (unless it doesn't work!).
 
 ## Computing Advice ##
 
@@ -19,7 +19,7 @@ You need a computing package that can analyze data sets.  It should include:
   - data parsers for text. You don't want to write these if you can help it.
   - a graphics library capable of making line plots, contour plots, and pseudo color images.  You *really* don't want to write these!
 
-For this class, I strongly recommend python, with the [iPython](http://ipython.org) interface, the [numpy](http://numpy.org) and [scipy](http://scipy.org) data analysis packages, and the [matplotlib](http://matplotlib.org) graphics library.  There are lots of other python libraries, but these ones are the core of the so-called "[science stack](http://www.scipy.org/stackspec.html)".  
+For this class, I strongly recommend Python, with the [iPython](http://ipython.org) interface, the [numpy](http://numpy.org) and [scipy](http://scipy.org) data analysis packages, and the [matplotlib](http://matplotlib.org) graphics library.  There are lots of other python libraries, but these ones are the core of the so-called "[Python science stack](http://www.scipy.org/stackspec.html)".  
 
 Alternatives include
 
@@ -57,12 +57,11 @@ The second is very similar to the first, and it is to try [cloud.sagemath.com][s
 
 The other alternative is to install python and iPython on your own computer. I strongly recommend using the [Anaconda distribution](https://store.continuum.io/cshop/anaconda/).  Download the install to your machine, and run the commands.  It will install all the python libraries needed in this course, and it is how I install python on my computers.
 
-**My recommendation**  If at all possible, install on your own computer.  I've had trouble getting access to [Wakari][wakari]  with a free account.  Sometimes they simply don't have the resources to give you a login.  That said, you can pay $10/month for a heightened access account, which hopefully gives you higher priority to the CPUs, and is a lot less grief than dealing with an old laptop, etc.  [Sagemath][sagemath] looks great, but it has a pretty laggy interface which may be an annoyance after a while.  However, once your notebook is open it seems to be fast enough.  
+**My recommendation**  If at all possible, install on your own computer.  I've had trouble getting access to [Wakari][wakari]  with a free account.  Sometimes they simply don't have the resources to give you a login.  That said, you can pay $10/month for a heightened-  access account, which hopefully gives you higher priority to the CPUs, and is a lot less grief than dealing with an old laptop, etc.  [Sagemath][sagemath] looks great, but it has a pretty laggy interface which may be an annoyance after a while.  However, once your notebook is open it seems to be fast enough.  
 
 I **do not** recommend trying to install python and all the libraries yourself by hand.  It is a lot of work, and two years ago when I taught this course caused a lot of grief.  
 
 ### Wakari How-To ###
-
 
 The Wakari people have a nice video: [https://www.youtube.com/](https://www.youtube.com/watch?v=6mxCf8a_rMM#t=16)
 
@@ -82,7 +81,10 @@ The Wakari people have a nice video: [https://www.youtube.com/](https://www.yout
 
 If you really want to use your own computer, I still recommend using iPython Notebooks.  This requires running some commands in the command window.  
 
-  1. In the terminal, go to the directory with the notebooks you want to work on (or an empty directory).
+  1. In the terminal, go to the directory with the notebooks you want to work on (or an empty directory).  On most systems this is accomplished with the `cd MyDirectory` command.  
   2. run `ipython notebook`  If you have set everything up properly using anaconda, Firefox or another browser should open with a list of iPython notebooks.  **NOTE** I've had trouble if OS-X's Safari opens.  It has some incompatibilities with the graphics in the notebook, so if Safari opens, simply cut and paste the url into Firefox and run from there.  
-  3. If you want to get one of my notebooks, you can go to github: [https://github.com/jklymak/Phy411/](https://github.com/jklymak/Phy411/), navigate to `lectures`, open `Lecture-00-Intro-Python.ipynb`, and then right-click on the `Raw` button and "Download Linked File As.." to save to your machine.  Then you can open the notebook by running `ipython notebook` in the directory that you put the file in.  
-   
+  3. If you want to get one of my notebooks, you can go to github: [https://github.com/jklymak/Phy411/](https://github.com/jklymak/Phy411/), navigate to `assignments`, open `Lecture-00-Intro-Python.ipynb`, and then right-click on the `Raw` button and "Download Linked File As.." to save to your machine.  Then you can open the notebook by running `ipython notebook` in the directory that you put the file in.  
+  4. a) If you want to get fancy, and have `wget` on your machine, you can do:
+  ``` wget https://github.com/jklymak/Phy411/raw/master/assigments/Assignment-01.ipynb```
+     b) Or if you have curl:
+  ```curl -L "https://github.com/jklymak/Phy411/raw/masterassigments/Assignment-01.ipynb" > Assignment-01.ipynb```
