@@ -85,6 +85,9 @@ If you really want to use your own computer, I still recommend using iPython Not
   2. run `ipython notebook`  If you have set everything up properly using anaconda, Firefox or another browser should open with a list of iPython notebooks.  **NOTE** I've had trouble if OS-X's Safari opens.  It has some incompatibilities with the graphics in the notebook, so if Safari opens, simply cut and paste the url into Firefox and run from there.  
   3. If you want to get one of my notebooks, you can go to github: [https://github.com/jklymak/Phy411/](https://github.com/jklymak/Phy411/), navigate to `assignments`, open `Lecture-00-Intro-Python.ipynb`, and then right-click on the `Raw` button and "Download Linked File As.." to save to your machine.  Then you can open the notebook by running `ipython notebook` in the directory that you put the file in.  
   4. a) If you want to get fancy, and have `wget` on your machine, you can do:
+  
   ``` wget https://github.com/jklymak/Phy411/raw/master/assigments/Assignment-01.ipynb```
+  
      b) Or if you have curl:
+  
   ```curl -L "https://github.com/jklymak/Phy411/raw/masterassigments/Assignment-01.ipynb" > Assignment-01.ipynb```
