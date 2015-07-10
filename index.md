@@ -45,6 +45,7 @@ Fall 2015 (F02)
 Late work penalized as below.  Academic concessions will be granted
 with appropriate documentation as per [UVic's regulations](http://www.uvic.ca/registrar/students/policies/appeals/rac-request.php).
 
+
 ## Mailing list
 
 Please feel free to contact me through the mailing lists:
