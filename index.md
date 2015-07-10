@@ -30,7 +30,7 @@ Fall 2015 (F02)
   - [Lectures](http://nbviewer.ipython.org/github/jklymak/Phy411/tree/master/lectures/)
   - [Assignments](http://nbviewer.ipython.org/github/jklymak/Phy411/tree/master/assigments/)
 
-<iframe idth="600px" height="100%"  src="https://docs.google.com/spreadsheets/d/1_qPI15GfUfRbynX0DXNvg7nQaF4wh4kdVac9Hv_BOy8/pubhtml?gid=0&single=true&widget=true&headers=false" ></iframe>
+<iframe idth="600px" height="400px"  src="https://docs.google.com/spreadsheets/d/1_qPI15GfUfRbynX0DXNvg7nQaF4wh4kdVac9Hv_BOy8/pubhtml?gid=0&single=true&widget=true&headers=false" ></iframe>
 
 
 
