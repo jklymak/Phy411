@@ -13,7 +13,25 @@ There will be approximately weekly assignments, due the Wed after the end of the
 
 Assignments are due by email, subject *must* say: `Phy411 Assignment 01`, `Phy411 Assignment 02`, etc.  The email can contain a PDF of your assignment, or it can contain a link to your notebook if you keep the notebook on github or wakari.  
 
-## Sharing Notebooks on Github ##
+## Getting the Assignments
+
+### Use the github GUI
+
+  - use a webbrowser and go to [https://github.com/jklymak/Phy411/tree/master/assigments/][]
+  - right-click or cmd-click on the file you want and `Download Linked File As...` (or whatever the syntax is for your browser).
+  
+### Get the files directly:
+
+If you have `wget` on your machine (it is available as freeware on most operating systems), you can do:
+
+  ``` wget https://github.com/jklymak/Phy411/raw/master/assigments/Assignment-01.ipynb```
+
+If you have `curl`
+
+```curl -L "https://github.com/jklymak/Phy411/raw/masterassigments/Assignment-01.ipynb" > Assignment-01.ipynb```
+
+
+## Sharing Your Assignment on Github ##
 
 If you are writing notebooks on your machine, its pretty easy to share them by keeping them under version control on [github][github].  
 
