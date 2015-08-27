@@ -10,7 +10,7 @@ title: Lectures and Assignments
 Each "Week" has a lecture associated with it. 
 
 # Assignments
-[Assignments](http://nbviewer.ipython.org/github/jklymak/Phy411/tree/master/assigments/)
+[Assignments](https://github.com/jklymak/Phy411/tree/master/release/)
 
 There will be approximately weekly assignments, due the Wed after the end of the week, so Assignment 1 is due Wed. 23 Sep at 17:00 local time, Assignment 2 due 30 Sep, etc.  Assignments are of equal weight, and are 55% of your grade.  Late assignments are penalized 10% per day, partial days rounded up, weekends included. 
 
@@ -20,18 +20,18 @@ Assignments are due by email, subject *must* say: `Phy411 Assignment 01`, `Phy41
 
 ### Use the github GUI
 
-  - use a webbrowser and go to [https://github.com/jklymak/Phy411/tree/master/assigments/][]
+  - use a webbrowser and go to [https://github.com/jklymak/Phy411/tree/master/release/Assign01/][]
   - right-click or cmd-click on the file you want and `Download Linked File As...` (or whatever the syntax is for your browser).
   
 ### Get the files directly:
 
 If you have `wget` on your machine (it is available as freeware on most operating systems), you can do:
 
-  ``` wget https://github.com/jklymak/Phy411/raw/master/assigments/Assignment-01.ipynb```
+  ``` wget https://github.com/jklymak/Phy411/raw/master/release/Assign01/Assignment-01.ipynb```
 
 If you have `curl`
 
-```curl -L "https://github.com/jklymak/Phy411/raw/masterassigments/Assignment-01.ipynb" > Assignment-01.ipynb```
+```curl -L "https://github.com/jklymak/Phy411/raw/master/release/Assign01/Assignment-01.ipynb" > Assignment-01.ipynb```
 
 
 ## Sharing Your Assignment on Github ##
@@ -48,7 +48,7 @@ If you are writing notebooks on your machine, its pretty easy to share them by k
 
 and you should get a copy of the directory `Phy411Assignments` in a level below your present one.
   
-  - Copy your notebook into the new directory (or start editing a new one there)
+  - Copy your notebook(s) into the new directory (or start editing a new one there)
   - Add your file (only need to do once:)
   
 ```
