@@ -1,6 +1,5 @@
 Physics 411: Time Series Analysis
 =================================
 
-Hi!
-
-  - [Lectures](http://nbviewer.ipython.org/github/jklymak/Phy411/blob/master/lectures/)
+  - [Home page](http://jklymak.github.io/Phy411/)
+  - [View lecture notes on nbviewer](http://nbviewer.ipython.org/github/jklymak/Phy411/tree/master/lectures/)
