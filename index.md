@@ -27,8 +27,9 @@ Fall 2015 (F02)
 
 ## [Lectures and Assigments](./Lectures/)
   
-  - [Lectures](http://nbviewer.ipython.org/github/jklymak/Phy411/tree/master/lectures/)
-  - [Assignments](http://nbviewer.ipython.org/github/jklymak/Phy411/tree/master/assigments/)
+  - [Lectures](https://github.com/jklymak/Phy411/tree/master/lectures/)
+  - [Assignments](https://github.com/jklymak/Phy411/tree/master/release/)
+  - [Keys](https://github.com/jklymak/Phy411/tree/master/keys/)
 
 <iframe width="600px" height="400px"  src="https://docs.google.com/spreadsheets/d/1_qPI15GfUfRbynX0DXNvg7nQaF4wh4kdVac9Hv_BOy8/pubhtml?gid=0&single=true&widget=true&headers=false&chrome=false" ></iframe>
 
@@ -45,16 +46,15 @@ Fall 2015 (F02)
 Late work penalized as below.  Academic concessions will be granted
 with appropriate documentation as per [UVic's regulations](http://www.uvic.ca/registrar/students/policies/appeals/rac-request.php).
 
-
 ## Mailing list
 
 Please feel free to contact me through the mailing lists:
 
-;; [201409-phys411-12635@lists.uvic.ca](mailto:201409-phys411-12635@lists.uvic.ca)
+[201409-phys411-12635@lists.uvic.ca](mailto:201409-phys411-12635@lists.uvic.ca)
 
 To manage your list, have a look at the appropriate page:
 
-;; [https://lists.uvic.ca/mailman/listinfo/201409-phys411-12635](https://lists.uvic.ca/mailman/listinfo/201409-phys411-12635)
+[https://lists.uvic.ca/mailman/listinfo/201409-phys411-12635](https://lists.uvic.ca/mailman/listinfo/201409-phys411-12635)
 
 Questions that will benefit all your classmates are very welcome on
 the list. 
