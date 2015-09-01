@@ -7,8 +7,8 @@
         src: url('http://mirrors.ctan.org/fonts/cm-unicode/fonts/otf/cmunss.otf');
     }
     div.cell{
-        width:800px;
-        margin-left:5% !important;
+        /* width:800px; */
+		margin-left:-7em;
         margin-right:auto;
     }
     h1 {
@@ -38,7 +38,7 @@
         font-size: 120%;
         line-height: 120%;
         width:55em;
-        margin-left:-10% !important;
+        margin-left:0% !important;
 
     }
     .CodeMirror{
