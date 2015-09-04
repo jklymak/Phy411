@@ -27,7 +27,7 @@ Fall 2015 (F02)
 
 ## [Lectures and Assigments](./Lectures/)
   
-  - [Lectures on github](https://github.com/jklymak/Phy411/tree/master/lectures/)
+  - [Lectures on github](https://github.com/jklymak/Phy411/tree/master/lectures/)  You can read the lectures here, but the rendering of math is broken (Sep 2015) so, suggest:
   - [Lectures on nbviewer (faster)](http://nbviewer.ipython.org/github/jklymak/Phy411/tree/master/lectures/)
   - [Assignments](https://github.com/jklymak/Phy411/tree/master/release/)
   - [Keys](https://github.com/jklymak/Phy411/tree/master/keys/)
@@ -59,11 +59,3 @@ To manage your list, have a look at the appropriate page:
 
 Questions that will benefit all your classmates are very welcome on
 the list. 
-
-
-
-
-
-
-
-

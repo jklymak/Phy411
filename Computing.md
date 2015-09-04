@@ -79,7 +79,7 @@ The Wakari people have a nice video: [https://www.youtube.com/](https://www.yout
 
 ### Your Own Computer How-To ###
 
-If you really want to use your own computer, I still recommend using iPython Notebooks.  This requires running some commands in the command window.  
+If you want to use your own computer, I still recommend using iPython Notebooks.  This requires running some commands in the command window.  
 
   1. In the terminal, go to the directory with the notebooks you want to work on (or an empty directory).  On most systems this is accomplished with the `cd MyDirectory` command.  
   2. run `ipython notebook`  If you have set everything up properly using anaconda, Firefox or another browser should open with a list of iPython notebooks.  **NOTE** I've had trouble if OS-X's Safari opens.  It has some incompatibilities with the graphics in the notebook, so if Safari opens, simply cut and paste the url into Firefox and run from there.  
@@ -93,3 +93,4 @@ If you really want to use your own computer, I still recommend using iPython Not
   b. Or if you have `curl`:
   
   ```curl -L "https://github.com/jklymak/Phy411/raw/masterassigments/Assignment-01.ipynb" > Assignment-01.ipynb```
+
