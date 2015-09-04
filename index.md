@@ -42,7 +42,7 @@ Fall 2015 (F02)
 
 ## Course Grading
 
-55% Assignments, 40% Analysis Project; 5% "Class Participation";
+60% Assignments, 35% Analysis Project; 5% "Class Participation";
 
 Late work penalized as below.  Academic concessions will be granted
 with appropriate documentation as per [UVic's regulations](http://www.uvic.ca/registrar/students/policies/appeals/rac-request.php).
