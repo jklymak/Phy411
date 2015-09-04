@@ -57,6 +57,8 @@ The second is very similar to the first, and it is to try [cloud.sagemath.com][s
 
 The other alternative is to install python and iPython on your own computer. I strongly recommend using the [Anaconda distribution](https://store.continuum.io/cshop/anaconda/).  Download the install to your machine, and run the commands.  It will install all the python libraries needed in this course, and it is how I install python on my computers.
 
+My notebooks are compatible with ipython version 4.0.0.
+
 **My recommendation**  If at all possible, install on your own computer.  I've had trouble getting access to [Wakari][wakari]  with a free account.  Sometimes they simply don't have the resources to give you a login.  That said, you can pay $10/month for a heightened-  access account, which hopefully gives you higher priority to the CPUs, and is a lot less grief than dealing with an old laptop, etc.  [Sagemath][sagemath] looks great, but it has a pretty laggy interface which may be an annoyance after a while.  However, once your notebook is open it seems to be fast enough.  
 
 I **do not** recommend trying to install python and all the libraries yourself by hand.  It is a lot of work, and two years ago when I taught this course caused a lot of grief.  
