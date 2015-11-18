@@ -3,6 +3,11 @@ layout: page
 title: Course Project
 ---
 
+## DUE DATE:
+
+Wed 16 Dec, 2015, 23:59  by email as a pdf or link to pdf on github.
+
+
 The project will involve analyzing temperature data from the
 [UVic School Weather Network](http://www.victoriaweather.ca).  Two types of data are to be considered:
 
